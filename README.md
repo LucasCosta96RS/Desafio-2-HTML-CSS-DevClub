@@ -1,11 +1,11 @@
-# desafio-2-html-css-devclub
+# Easy Shopping home page
 
-Esse foi um projeto criado durante o curso DevClub usando apenas HTML e CSS.
+This was one of my first projects, it's a home page for a service called Easy Shopping. I used only HTML and CSS since it was just to train my front-end skills, 
 
 <p>
-  <img src="https://github.com/LucasCosta96RS/desafio-2-html-css-devclub/blob/master/Assets/Easy%20Shoppping%20website.png?raw=true" alt="tela-website" height="270" width="480">
+  <img src="https://github.com/LucasCosta96RS/easy-shopping-home-page/blob/master/final-product-screenshots/easy-shopping-desktop.png" alt="Easy Shopping Desktop Image" width="600px">
   &nbsp
   &nbsp 
   &nbsp 
-  <img src="https://github.com/LucasCosta96RS/desafio-2-html-css-devclub/blob/master/Assets/Easy%20Shopping%20Smartphone.png?raw=true" alt="tela-smartphone" height="270" width="auto">
+  <img src="https://github.com/LucasCosta96RS/easy-shopping-home-page/blob/master/final-product-screenshots/easy-shopping-mobile.png" alt="Easy Shopping Mobile Image" width="200px">
 </p>
